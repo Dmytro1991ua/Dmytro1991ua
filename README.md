@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://github.com/Dmytro1991ua)
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">A passionate Front-End Developer who's on an exciting and thorny journey in the IT industry.</h3>
-<img align="right" alt="Coding is fun" width="400" src="https://tenor.com/3o2m.gif" />
+<img align="right" alt="Coding is fun" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytro1991ua&label=Profile%20views&color=0e75b6&style=flat" alt="dmytro1991ua" /> </p>
 
