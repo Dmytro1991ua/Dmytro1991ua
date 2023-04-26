@@ -25,9 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmytro1991ua&show_icons=true&locale=en&show_icons=true&theme=merko" alt="dmytro1991ua" /></p>
 
 <h3 align="left">Streak Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmytro1991ua&show_icons=true&theme=merko" alt="dmytro1991ua" /></p>
-
-<details>
-  <summary>Languages over last 30 days👇🏻</summary/><br/>
-  <img src="https://wakatime.com/share/@221f001d-7567-4653-82f6-890f50b86992/9b2c90ab-b510-4801-b213-1eb294296868.svg"  height='400px'/>
-</details/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmytro1991ua&show_icons=true&theme=merko" alt="dmytro1991ua" /></p><br/>
