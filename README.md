@@ -1,28 +1,129 @@
 <img alt="Coding banner" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
-<br />
+
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">A passionate Front-End Developer who's on an exciting and thorny journey in the IT industry.</h3>
-<img align="right" alt="Coding is fun" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytro1991ua&label=Profile%20views&color=0e75b6&style=flat" alt="dmytro1991ua" /> </p>
+<h3 align="center">
+Front-End Developer, who's on an exciting and thorny journey in the IT industry, building modern web apps with React, Next.js, Vue, Nuxt, TypeScript, GrapghGL, REST Apis and clean UI architecture.
+</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dmytro1991ua&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+## About Me
+
+I'm a Front-End Developer focused on building responsive, maintainable, and user-friendly web applications.
+
+- 🔭 Building projects with **React, Next.js, Vue, Nuxt, TypeScript**
+- ⚡ Working with **Apollo GraphQL, Supabase, Firebase, REST APIs**
+- 🎯 Interested in **dashboards, CRM systems, maps, fitness apps, and product UI**
+- 🌱 Improving in **frontend architecture, testing, performance, and full-stack workflows**
+
+    </td>
+    <td width="40%" align="center">
+      <img alt="Coding is fun" width="320" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+### 🚀 LiftMend CRM
+CRM for managing elevator repair operations, service requests, scheduling, communication, and team workflow.
+
+**Tech Stack:** Next, React, TypeScript, GrapghQL, Apollo Server/Client, Supabase, Supabase Auth, Talwind CSS, shadcn/ui, Jest, React Testing Library  
+
+[Repository](https://github.com/Dmytro1991ua/LiftMend_CRM)
+
+[Live](https://lift-mend-crm.vercel.app)
+
+### 🌍 GeoWorld
+Geography-focused application for exploring countries, locations, and world data through an interactive interface.
+
+**Tech Stack:** Vue 3 Nuxt 4, TypeScript, Pinia, Talwind CSS  
+
+[Repository](https://github.com/Dmytro1991ua/GeoWorld)
+
+[Live](https://geoworld-production.up.railway.app)
+
+### 🎬 Movie App
+Movie discovery app for exploring films and TV shows with dynamic data and modern routing.
+
+**Tech Stack:** Next.js, React, TypeScript, React Query, Next Auth, MongoDB, Jest, React Testing Library    
+
+[Repository](https://github.com/Dmytro1991ua/next-js-movie-app)
+
+[Live](https://movie-time-roan.vercel.app/auth)
+
+
+### 💪 Workouts App
+Fitness tracking app for creating, managing, and analyzing running and cycling workouts.
+
+**Tech Stack:** React, TypeScript, Node Js, Express, MongoDB, Firebase, React Leaflet, Styled-Components  
+
+[Repository](https://github.com/Dmytro1991ua/react-workout-app)
+
+[Live](https://workout.up.railway.app)
+
+### 📝 Listify
+Smart list and recipe management app for groceries, ingredients, and meal planning.
+
+**Tech Stack:** React, TypeScript, Node JS, Express, Firebase, MomgoDB, Material UI, Zustand, Vite, Vitest
+
+[Repository](https://github.com/Dmytro1991ua/react_listify)
+
+[Live](https://listify.up.railway.app/)
+
+## Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,redux,pinia,apollo" />
+</p>
+
+### Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,materialui,styledcomponents,figma" />
+</p>
+
+### Data, Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,apollo,firebase,supabase,mongodb" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gitlab,webpack,babel,jest,postman" />
+</p>
+
+## Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/dmitriy-kurchenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmitriy-kurchenko/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006927818454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dmitriy kurchenko" height="30" width="40" /></a>
-<a href="https://instagram.com/dmitriy_kurchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmitriy kurchenko" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dmitriy-kurchenko/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100006927818454" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dmitriy_kurchenko" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+## GitHub Stats
+
+<p align="center">
+  <img width="650" src="https://ghstats.dev/api/card?username=Dmytro1991ua&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmytro1991ua&show_icons=true&locale=en&layout=compact&show_icons=true&theme=merko" alt="dmytro1991ua" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmytro1991ua&show_icons=true&locale=en&show_icons=true&theme=merko" alt="dmytro1991ua" /></p>
+<p align="center">
+  <img width="650" src="https://ghstats.dev/api/langs?username=Dmytro1991ua&theme=tokyonight&layout=bar&hide_border=true&max_langs=10" alt="Top languages" />
+</p>
 
-<h3 align="left">Streak Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmytro1991ua&show_icons=true&theme=merko" alt="dmytro1991ua" /></p><br/>
+<p align="center">
+  <img width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmytro1991ua&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
