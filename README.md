@@ -20,7 +20,7 @@ I'm a Front-End Developer focused on building responsive, maintainable, and user
 
 - 🔭 Building projects with **React, Next.js, Vue, Nuxt, TypeScript**
 - ⚡ Working with **Apollo GraphQL, Supabase, Firebase, REST APIs**
-- 🎯 Interested in **dashboards, SaaS. CRM systems, maps, fitness apps, and product UI**
+- 🎯 Interested in **dashboards, SaaS, CRM systems, maps, fitness apps, and product UI**
 - 🌱 Improving in **frontend architecture, testing, performance, and full-stack workflows**
 
     </td>
