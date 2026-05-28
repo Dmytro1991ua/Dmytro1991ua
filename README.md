@@ -46,7 +46,7 @@ Geography-focused application for exploring countries, locations, and world data
 
 **Tech Stack:** Vue 3 Nuxt 4, TypeScript, Pinia, Talwind CSS  
 
-[Repository](https://github.com/Dmytro1991ua/GeoWorld)
+[Repository](https://github.com/Dmytro1991ua/geo_world)
 
 [Live](https://geoworld-production.up.railway.app)
 
