@@ -32,6 +32,15 @@ I'm a Front-End Developer focused on building responsive, maintainable, and user
 
 ## Featured Projects
 
+### 🌱 Canopy
+Green energy landing page for Canopy, designed in Claude and built end-to-end with Claude Code.
+
+**Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion  
+
+[Repository](https://github.com/Dmytro1991ua/canopy)
+
+[Live](https://canopy-save-the-world.vercel.app/)
+
 ### 🚀 LiftMend CRM
 CRM for managing elevator repair operations, service requests, scheduling, communication, and team workflow.
 
