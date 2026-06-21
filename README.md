@@ -32,15 +32,6 @@ I'm a Front-End Developer focused on building responsive, maintainable, and user
 
 ## Featured Projects
 
-### 🌱 Canopy
-Green energy landing page for Canopy, designed in Claude and built end-to-end with Claude Code.
-
-**Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion  
-
-[Repository](https://github.com/Dmytro1991ua/canopy)
-
-[Live](https://canopy-save-the-world.vercel.app/)
-
 ### 🚀 LiftMend CRM
 CRM for managing elevator repair operations, service requests, scheduling, communication, and team workflow.
 
@@ -50,15 +41,6 @@ CRM for managing elevator repair operations, service requests, scheduling, commu
 
 [Live](https://lift-mend-crm.vercel.app)
 
-### 🌍 GeoWorld
-Geography-focused application for exploring countries, locations, and world data through an interactive interface.
-
-**Tech Stack:** Vue 3 Nuxt 4, TypeScript, Pinia, Talwind CSS  
-
-[Repository](https://github.com/Dmytro1991ua/geo_world)
-
-[Live](https://geoworld-production.up.railway.app)
-
 ### 🎬 Movie App
 Movie discovery app for exploring films and TV shows with dynamic data and modern routing.
 
@@ -67,6 +49,24 @@ Movie discovery app for exploring films and TV shows with dynamic data and moder
 [Repository](https://github.com/Dmytro1991ua/next-js-movie-app)
 
 [Live](https://movie-time-roan.vercel.app/auth)
+
+### 🌱 Canopy
+Green energy landing page for Canopy, designed in Claude and built end-to-end with Claude Code.
+
+**Tech Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS v4, Framer Motion  
+
+[Repository](https://github.com/Dmytro1991ua/canopy)
+
+[Live](https://canopy-save-the-world.vercel.app/)
+
+### 🌍 GeoWorld
+Geography-focused application for exploring countries, locations, and world data through an interactive interface.
+
+**Tech Stack:** Vue 3 Nuxt 4, TypeScript, Pinia, Talwind CSS  
+
+[Repository](https://github.com/Dmytro1991ua/geo_world)
+
+[Live](https://geoworld-production.up.railway.app)
 
 
 ### 💪 Workouts App
